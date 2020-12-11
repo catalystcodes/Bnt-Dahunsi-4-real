@@ -1,0 +1,88 @@
+  .head1 {
+      margin: 10rem auto;
+      height: 1.5rem;
+      width: 20rem;
+      border-radius: 10rem;
+      border: 0.15rem #aaaaaa solid;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      margin-left: 34.5rem;
+  }
+  
+  .line1 {
+      height: 11rem;
+      width: 0.17rem;
+      border: 0.15rem #aaaaaa solid;
+      margin-left: 30rem;
+      position: absolute;
+      top: 11.7rem;
+      left: 4.92rem;
+  }
+  
+  .head2 {
+      position: absolute;
+      left: 35.9rem;
+      top: 12.3rem;
+      line-height: normal;
+  }
+  
+  h6 {
+      margin-bottom: 0.5rem;
+      font-weight: 900;
+      margin-left: 2rem;
+  }
+  
+  .p1 {
+      margin-left: -0.6rem;
+  }
+  
+  .p3 {
+      margin-left: 2rem;
+  }
+  
+  .head3 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: absolute;
+      left: 35.9rem;
+      top: 18.1rem;
+  }
+  
+  .p4 {
+      position: absolute;
+      left: 35.9rem;
+      top: 21.1rem;
+  }
+  
+  .h1 {
+      font-size: 2rem;
+  }
+  
+  img {
+      height: 5rem;
+      width: 5rem;
+      position: absolute;
+      left: 48rem;
+      top: 16.8rem;
+  }
+  
+  .line2 {
+      height: 11rem;
+      width: 0.1rem;
+      border: 0.15rem #aaaaaa solid;
+      position: absolute;
+      left: 54rem;
+      top: 11.8rem;
+  }
+  
+  .line3 {
+      height: 0.1rem;
+      width: 19rem;
+      border: 0.15rem #aaaaaa solid;
+      position: absolute;
+      left: 34.9rem;
+      top: 22.7rem;
+  }
